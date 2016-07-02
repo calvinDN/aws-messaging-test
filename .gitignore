@@ -1,0 +1,8 @@
+
+/src/main/resources/AwsCredentials.properties
+/awstestapp.ipr
+/awstestapp.iws
+/out/
+/.idea/
+/.gradle/
+*.iml
